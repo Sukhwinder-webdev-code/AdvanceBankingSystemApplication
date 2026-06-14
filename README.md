@@ -29,7 +29,7 @@ Advanced Banking System Application built with HTML, CSS, and JavaScript featuri
   ![Home Page](assets/depositmoney.png)
 
   ### Account validation
-  ![Account Validation](assets/validatingaccount)
+  ![Account Validation](assets/validatingaccount.png)
 
   ## Deployment
   The applic ation is deployed and hosted on vercel
