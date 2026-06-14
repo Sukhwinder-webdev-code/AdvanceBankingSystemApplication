@@ -33,7 +33,7 @@ Advanced Banking System Application built with HTML, CSS, and JavaScript featuri
 
   ## Deployment
   The applic ation is deployed and hosted on vercel
-  Live Demo: https://advancebankingapplication-git-main-sukhwinder-s-projects.vercel.app
+  - Live Demo: https://advancebankingapplication-git-main-sukhwinder-s-projects.vercel.app
 
   ## author
   Sukhwinder kaur
