@@ -1,7 +1,7 @@
 # AdvanceBankingSystemApplication
 Advanced Banking System Application built with HTML, CSS, and JavaScript featuring account creation, deposits, withdrawals, balance inquiries, and transaction validation.
 
-- [Live]()
+- [Live](https://advancebankingapplication-git-main-sukhwinder-s-projects.vercel.app)
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -26,14 +26,14 @@ Advanced Banking System Application built with HTML, CSS, and JavaScript featuri
  
   ## screenshots
   ### Home Page
-  ![Home Page](assests/depositmoney.png)
+  ![Home Page](assets/depositmoney.png)
 
   ### Account validation
   ![Account Validation](assets/validatingaccount)
 
   ## Deployment
   The applic ation is deployed and hosted on vercel
-  Live Demo: https://
+  Live Demo: https://advancebankingapplication-git-main-sukhwinder-s-projects.vercel.app
 
   ## author
   Sukhwinder kaur
