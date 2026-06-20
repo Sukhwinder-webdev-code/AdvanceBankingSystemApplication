@@ -11,7 +11,7 @@ body {
 .whole-container 
 {
     width:100%;
-    max-width:60vw;
+    max-width:80vw;
     justify-self: center;
     margin-top:10px;
     display: flex;
